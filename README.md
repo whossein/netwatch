@@ -7,6 +7,10 @@
 - فهرست اپ‌های در حال اجرا که در آن بازه ترافیکی نداشته‌اند
 - ویجت شناور روی دسکتاپ با ۵ اپ اول (قابل جابه‌جایی، بازه‌ی جدا)
 
+## دانلود
+
+نسخه‌ی آماده از [Releases](https://github.com/whossein/netwatch/releases/latest) (macOS 13+، اپل سیلیکون و اینتل). چون notarize نشده، دفعه‌ی اول از System Settings → Privacy & Security گزینه‌ی Open Anyway را بزنید.
+
 ## ساخت و اجرا
 
 ```bash
@@ -42,6 +46,10 @@ A lightweight macOS menu bar app that shows which apps are using your internet.
 - Running apps that had no traffic in the selected range
 - Floating desktop widget with the top 5 apps (draggable, separate range)
 - Shows its own CPU and energy use
+
+### Download
+
+Grab the latest build from [Releases](https://github.com/whossein/netwatch/releases/latest) (macOS 13+, universal). It is not notarized, so on first launch use System Settings → Privacy & Security → Open Anyway.
 
 ### Build
 
